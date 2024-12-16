@@ -1,0 +1,10 @@
+{
+  "name": "Counter Extension",
+  "description": "An extension that saves a counter.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "counter.png"
+  }
+}

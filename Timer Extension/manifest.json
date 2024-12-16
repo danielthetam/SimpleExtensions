@@ -1,0 +1,10 @@
+{
+  "name": "Timer Extension",
+  "description": "An extension for timing activities.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "timer.png"
+  }
+}
