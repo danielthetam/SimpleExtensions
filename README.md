@@ -6,3 +6,6 @@ A couple of simple chrome extensions that I wanted to save. Both made for the pu
 
 ## Counter
 ![image](https://github.com/user-attachments/assets/614678a4-7600-46a3-8e8f-3211d6e1793f)
+
+### How to install these extensions?
+To add these extensions to your browser, simply install each folder. Then, open your browser and type in "chrome://extensions", and on the top right, toggle Developer Mode. Then, a mini developer menu should ease down into the window. Click on "Load unpacked", and select the corresponding folder. 
